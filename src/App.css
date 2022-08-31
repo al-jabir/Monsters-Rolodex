@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: cursive;
+  -webkit-font-smoothing: anialiased;
+  background: linear-gradient(
+    to left,
+    rgb(62, 79, 128) 0%,
+    rgb(142, 38, 186) 100%
+  );
+  text-align: center;
+}
+.top {
+  margin-top: 50px;
+  text-transform: uppercase;
+  color: #b66b5e;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
